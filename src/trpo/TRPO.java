@@ -6,7 +6,7 @@ package trpo;
 
 /**
  *
- * @author Lenovo
+ * @author i am
  */
 public class TRPO {
 
